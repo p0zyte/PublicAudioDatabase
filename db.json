@@ -1,1 +1,1326 @@
-// if you find this, it is useless.
+[{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a169f"
+  },
+  "emoteName": "Hit The Jackpot",
+  "originalSoundId": 122319283490272,
+  "currentSoundId": 122319283490272,
+  "animationId": 75247952866444,
+  "archived": true,
+  "archivePath": "AudioArchive/122319283490272.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a0"
+  },
+  "emoteName": "I See Kareem",
+  "originalSoundId": 81089878326418,
+  "currentSoundId": 81089878326418,
+  "animationId": 75102269016170,
+  "archived": true,
+  "archivePath": "AudioArchive/81089878326418.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a1"
+  },
+  "emoteName": "I Want You Back",
+  "originalSoundId": 131494796797742,
+  "currentSoundId": 131494796797742,
+  "animationId": 82218443616796,
+  "archived": true,
+  "archivePath": "AudioArchive/131494796797742.ogg",
+  "moderated": false,
+  "reuploadHistory": [
+    {
+      "from": 131494796797742,
+      "to": 95311080324855,
+      "at": {
+        "$date": "2026-06-21T20:31:46.571Z"
+      }
+    },
+    {
+      "from": 95982870317493,
+      "to": 103376909364347,
+      "at": {
+        "$date": "2026-06-21T20:42:57.676Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T20:48:04.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a2"
+  },
+  "emoteName": "Low Cortisol",
+  "originalSoundId": 86770149792287,
+  "currentSoundId": 86770149792287,
+  "animationId": 126604285933607,
+  "archived": true,
+  "archivePath": "AudioArchive/86770149792287.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a3"
+  },
+  "emoteName": "No Hands",
+  "originalSoundId": 83502656084840,
+  "currentSoundId": 83502656084840,
+  "animationId": 125705545722741,
+  "archived": true,
+  "archivePath": "AudioArchive/83502656084840.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a4"
+  },
+  "emoteName": "Number Dance",
+  "originalSoundId": 76529642012117,
+  "currentSoundId": 76529642012117,
+  "animationId": 93695362797519,
+  "archived": true,
+  "archivePath": "AudioArchive/76529642012117.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T23:20:58.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a5"
+  },
+  "emoteName": "Professora Six Seven",
+  "originalSoundId": 87019326508436,
+  "currentSoundId": 87019326508436,
+  "animationId": 121479128659305,
+  "archived": true,
+  "archivePath": "AudioArchive/87019326508436.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a6"
+  },
+  "emoteName": "APT",
+  "originalSoundId": 130157669005527,
+  "currentSoundId": 130157669005527,
+  "animationId": 124978495732114,
+  "archived": true,
+  "archivePath": "AudioArchive/130157669005527.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T20:47:10.631Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a7"
+  },
+  "emoteName": "Alter Ego",
+  "originalSoundId": 125788703763072,
+  "currentSoundId": 125788703763072,
+  "animationId": 79384504031917,
+  "archived": true,
+  "archivePath": "AudioArchive/125788703763072.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a8"
+  },
+  "emoteName": "Ashi Ashi",
+  "originalSoundId": 104132171404736,
+  "currentSoundId": 104132171404736,
+  "animationId": 83118533796184,
+  "archived": true,
+  "archivePath": "AudioArchive/104132171404736.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16a9"
+  },
+  "emoteName": "Attraction",
+  "originalSoundId": 72304690042349,
+  "currentSoundId": 72304690042349,
+  "animationId": 108835534597550,
+  "archived": true,
+  "archivePath": "AudioArchive/72304690042349.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16aa"
+  },
+  "emoteName": "Avgn Bop",
+  "originalSoundId": 108406318212661,
+  "currentSoundId": 108406318212661,
+  "animationId": 117997361299952,
+  "archived": false,
+  "archivePath": null,
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16ab"
+  },
+  "emoteName": "BANG BANG BANG",
+  "originalSoundId": 137015618332900,
+  "currentSoundId": 137015618332900,
+  "animationId": 104232375639614,
+  "archived": true,
+  "archivePath": "AudioArchive/137015618332900.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T20:11:21.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16ac"
+  },
+  "emoteName": "Bibbidiba",
+  "originalSoundId": 110093554896527,
+  "currentSoundId": 110093554896527,
+  "animationId": 120006401574377,
+  "archived": true,
+  "archivePath": "AudioArchive/110093554896527.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16ad"
+  },
+  "emoteName": "Billie Jean",
+  "originalSoundId": 127912593862259,
+  "currentSoundId": 127912593862259,
+  "animationId": 113995865902513,
+  "archived": true,
+  "archivePath": "AudioArchive/127912593862259.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16ae"
+  },
+  "emoteName": "Bizochito",
+  "originalSoundId": 83989589084323,
+  "currentSoundId": 83989589084323,
+  "animationId": 114450829338278,
+  "archived": true,
+  "archivePath": "AudioArchive/83989589084323.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16af"
+  },
+  "emoteName": "Blinding Lights",
+  "originalSoundId": 96838207023801,
+  "currentSoundId": 96838207023801,
+  "animationId": 105475328572360,
+  "archived": true,
+  "archivePath": "AudioArchive/96838207023801.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b0"
+  },
+  "emoteName": "Bling-Bang-Bang-Born",
+  "originalSoundId": 72054657788590,
+  "currentSoundId": 72054657788590,
+  "animationId": 91012039479588,
+  "archived": true,
+  "archivePath": "AudioArchive/72054657788590.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b1"
+  },
+  "emoteName": "Boneless",
+  "originalSoundId": 102170730329484,
+  "currentSoundId": 102170730329484,
+  "animationId": 72039402552117,
+  "archived": true,
+  "archivePath": "AudioArchive/102170730329484.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b2"
+  },
+  "emoteName": "Boogie Down",
+  "originalSoundId": 117227449709579,
+  "currentSoundId": 117227449709579,
+  "animationId": 77636875803671,
+  "archived": true,
+  "archivePath": "AudioArchive/117227449709579.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b3"
+  },
+  "emoteName": "Bounce Wit' It",
+  "originalSoundId": 81383615868994,
+  "currentSoundId": 81383615868994,
+  "animationId": 140585340266530,
+  "archived": true,
+  "archivePath": "AudioArchive/81383615868994.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b4"
+  },
+  "emoteName": "Bratty",
+  "originalSoundId": 90851450877650,
+  "currentSoundId": 90851450877650,
+  "animationId": 123586896914819,
+  "archived": true,
+  "archivePath": "AudioArchive/90851450877650.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b5"
+  },
+  "emoteName": "Bumble Bee",
+  "originalSoundId": 77163038478104,
+  "currentSoundId": 77163038478104,
+  "animationId": 112491505785786,
+  "archived": true,
+  "archivePath": "AudioArchive/77163038478104.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b6"
+  },
+  "emoteName": "Can't Get Enough",
+  "originalSoundId": 97230155202075,
+  "currentSoundId": 97230155202075,
+  "animationId": 134377195385989,
+  "archived": true,
+  "archivePath": "AudioArchive/97230155202075.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b7"
+  },
+  "emoteName": "Catch My Heart",
+  "originalSoundId": 111749493785060,
+  "currentSoundId": 111749493785060,
+  "animationId": 130788436481132,
+  "archived": true,
+  "archivePath": "AudioArchive/111749493785060.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b8"
+  },
+  "emoteName": "Champions (World Cup)",
+  "originalSoundId": 115687506868616,
+  "currentSoundId": 115687506868616,
+  "animationId": 105752975245756,
+  "archived": true,
+  "archivePath": "AudioArchive/115687506868616.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16b9"
+  },
+  "emoteName": "Chegou",
+  "originalSoundId": 89407613268987,
+  "currentSoundId": 89407613268987,
+  "animationId": 122857820543814,
+  "archived": true,
+  "archivePath": "AudioArchive/89407613268987.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16ba"
+  },
+  "emoteName": "Copines",
+  "originalSoundId": 140126894160481,
+  "currentSoundId": 140126894160481,
+  "animationId": 88919523368185,
+  "archived": true,
+  "archivePath": "AudioArchive/140126894160481.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16bb"
+  },
+  "emoteName": "Copines Duo Left",
+  "originalSoundId": 140126894160481,
+  "currentSoundId": 140126894160481,
+  "animationId": 99446953299509,
+  "archived": true,
+  "archivePath": "AudioArchive/140126894160481.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16bc"
+  },
+  "emoteName": "Copines Duo Right",
+  "originalSoundId": 140126894160481,
+  "currentSoundId": 140126894160481,
+  "animationId": 123155019022028,
+  "archived": true,
+  "archivePath": "AudioArchive/140126894160481.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16bd"
+  },
+  "emoteName": "Dare",
+  "originalSoundId": 114429134066399,
+  "currentSoundId": 114429134066399,
+  "animationId": 127103534981223,
+  "archived": true,
+  "archivePath": "AudioArchive/114429134066399.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16be"
+  },
+  "emoteName": "Delirios Dance",
+  "originalSoundId": 129789752582642,
+  "currentSoundId": 129789752582642,
+  "animationId": 74719727619281,
+  "archived": true,
+  "archivePath": "AudioArchive/129789752582642.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16bf"
+  },
+  "emoteName": "Destroy Me",
+  "originalSoundId": 75263681068208,
+  "currentSoundId": 75263681068208,
+  "animationId": 118723936734613,
+  "archived": true,
+  "archivePath": "AudioArchive/75263681068208.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16c0"
+  },
+  "emoteName": "Dimensional",
+  "originalSoundId": 101817082837290,
+  "currentSoundId": 101817082837290,
+  "animationId": 94481956087025,
+  "archived": true,
+  "archivePath": "AudioArchive/101817082837290.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9c8373f40a8e7a16c1"
+  },
+  "emoteName": "Dirtbike Challenge",
+  "originalSoundId": 109310205470080,
+  "currentSoundId": 109310205470080,
+  "animationId": 84178092675095,
+  "archived": true,
+  "archivePath": "AudioArchive/109310205470080.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c2"
+  },
+  "emoteName": "Doodle",
+  "originalSoundId": 134913038484457,
+  "currentSoundId": 134913038484457,
+  "animationId": 104227916796396,
+  "archived": true,
+  "archivePath": "AudioArchive/134913038484457.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c3"
+  },
+  "emoteName": "Down",
+  "originalSoundId": 91614112496189,
+  "currentSoundId": 91614112496189,
+  "animationId": 84229068274944,
+  "archived": true,
+  "archivePath": "AudioArchive/91614112496189.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c4"
+  },
+  "emoteName": "Droop",
+  "originalSoundId": 97406243252220,
+  "currentSoundId": 97406243252220,
+  "animationId": 77030340104369,
+  "archived": true,
+  "archivePath": "AudioArchive/97406243252220.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c5"
+  },
+  "emoteName": "Funk Up",
+  "originalSoundId": 83823972534629,
+  "currentSoundId": 83823972534629,
+  "animationId": 77636875803671,
+  "archived": true,
+  "archivePath": "AudioArchive/83823972534629.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c6"
+  },
+  "emoteName": "Gabriela",
+  "originalSoundId": 94440622718425,
+  "currentSoundId": 94440622718425,
+  "animationId": 106889215704244,
+  "archived": true,
+  "archivePath": "AudioArchive/94440622718425.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c7"
+  },
+  "emoteName": "Get Griddy",
+  "originalSoundId": 123818350921082,
+  "currentSoundId": 123818350921082,
+  "animationId": 87849430553104,
+  "archived": true,
+  "archivePath": "AudioArchive/123818350921082.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c8"
+  },
+  "emoteName": "Gnarly",
+  "originalSoundId": 110442360865037,
+  "currentSoundId": 110442360865037,
+  "animationId": 120421019590249,
+  "archived": true,
+  "archivePath": "AudioArchive/110442360865037.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16c9"
+  },
+  "emoteName": "Hakari Dance",
+  "originalSoundId": 74119706488720,
+  "currentSoundId": 74119706488720,
+  "animationId": 90180372772056,
+  "archived": true,
+  "archivePath": "AudioArchive/74119706488720.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16ca"
+  },
+  "emoteName": "Headlock",
+  "originalSoundId": 130543687927115,
+  "currentSoundId": 130543687927115,
+  "animationId": 81423725542571,
+  "archived": true,
+  "archivePath": "AudioArchive/130543687927115.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16cb"
+  },
+  "emoteName": "Heeseung Walk",
+  "originalSoundId": 121416180517709,
+  "currentSoundId": 121416180517709,
+  "animationId": 74941510438434,
+  "archived": true,
+  "archivePath": "AudioArchive/121416180517709.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16cc"
+  },
+  "emoteName": "Hotel Transylvania Macarena",
+  "originalSoundId": 84318466702250,
+  "currentSoundId": 84318466702250,
+  "animationId": 89420776320551,
+  "archived": true,
+  "archivePath": "AudioArchive/84318466702250.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16cd"
+  },
+  "emoteName": "In Your Eyes",
+  "originalSoundId": 115744614568025,
+  "currentSoundId": 115744614568025,
+  "animationId": 72799026045245,
+  "archived": true,
+  "archivePath": "AudioArchive/115744614568025.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16ce"
+  },
+  "emoteName": "Jamal Brazil Groove",
+  "originalSoundId": 97343446425961,
+  "currentSoundId": 97343446425961,
+  "animationId": 106865236633450,
+  "archived": true,
+  "archivePath": "AudioArchive/97343446425961.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16cf"
+  },
+  "emoteName": "Jax Toy",
+  "originalSoundId": 91157601445084,
+  "currentSoundId": 91157601445084,
+  "animationId": 95180181877196,
+  "archived": true,
+  "archivePath": "AudioArchive/91157601445084.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d0"
+  },
+  "emoteName": "Like JENNIE",
+  "originalSoundId": 99248306009744,
+  "currentSoundId": 99248306009744,
+  "animationId": 118229885001728,
+  "archived": true,
+  "archivePath": "AudioArchive/99248306009744.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d1"
+  },
+  "emoteName": "Macarena",
+  "originalSoundId": 84318466702250,
+  "currentSoundId": 84318466702250,
+  "animationId": 84532495878767,
+  "archived": true,
+  "archivePath": "AudioArchive/84318466702250.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d2"
+  },
+  "emoteName": "Nervy Dance",
+  "originalSoundId": 135769736786021,
+  "currentSoundId": 135769736786021,
+  "animationId": 90018336892195,
+  "archived": true,
+  "archivePath": "AudioArchive/135769736786021.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d3"
+  },
+  "emoteName": "Never Gonna Give You Up",
+  "originalSoundId": 95374894061236,
+  "currentSoundId": 95374894061236,
+  "animationId": 133129405103678,
+  "archived": true,
+  "archivePath": "AudioArchive/95374894061236.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d4"
+  },
+  "emoteName": "Oblivion",
+  "originalSoundId": 127468546755308,
+  "currentSoundId": 127468546755308,
+  "animationId": 134422198807679,
+  "archived": true,
+  "archivePath": "AudioArchive/127468546755308.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d5"
+  },
+  "emoteName": "Oh Who Is You",
+  "originalSoundId": 102180626446409,
+  "currentSoundId": 102180626446409,
+  "animationId": 112292128222180,
+  "archived": true,
+  "archivePath": "AudioArchive/102180626446409.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d6"
+  },
+  "emoteName": "PASSO BEM SOLTO",
+  "originalSoundId": 89028657646580,
+  "currentSoundId": 89028657646580,
+  "animationId": 138012294802543,
+  "archived": true,
+  "archivePath": "AudioArchive/89028657646580.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d7"
+  },
+  "emoteName": "POP DAT THANG",
+  "originalSoundId": 72796257177361,
+  "currentSoundId": 72796257177361,
+  "animationId": 120615013035083,
+  "archived": true,
+  "archivePath": "AudioArchive/72796257177361.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d8"
+  },
+  "emoteName": "Party Boy",
+  "originalSoundId": 80429831536212,
+  "currentSoundId": 80429831536212,
+  "animationId": 133011962883734,
+  "archived": true,
+  "archivePath": "AudioArchive/80429831536212.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16d9"
+  },
+  "emoteName": "Peter Parker",
+  "originalSoundId": 80433728590039,
+  "currentSoundId": 80433728590039,
+  "animationId": 122559095832047,
+  "archived": true,
+  "archivePath": "AudioArchive/80433728590039.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16da"
+  },
+  "emoteName": "Pinky Up",
+  "originalSoundId": 83553091598624,
+  "currentSoundId": 83553091598624,
+  "animationId": 111901891427687,
+  "archived": true,
+  "archivePath": "AudioArchive/83553091598624.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16db"
+  },
+  "emoteName": "Popstar Moves",
+  "originalSoundId": 97281842797110,
+  "currentSoundId": 97281842797110,
+  "animationId": 72956882753592,
+  "archived": true,
+  "archivePath": "AudioArchive/97281842797110.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16dc"
+  },
+  "emoteName": "Popular Vibe",
+  "originalSoundId": 113574950997392,
+  "currentSoundId": 113574950997392,
+  "animationId": 85336501781445,
+  "archived": true,
+  "archivePath": "AudioArchive/113574950997392.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16dd"
+  },
+  "emoteName": "Rat Dance",
+  "originalSoundId": 110128383730076,
+  "currentSoundId": 110128383730076,
+  "animationId": 115883614063904,
+  "archived": true,
+  "archivePath": "AudioArchive/110128383730076.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16de"
+  },
+  "emoteName": "Tiki Brazil",
+  "originalSoundId": 138015836072461,
+  "currentSoundId": 138015836072461,
+  "animationId": 121035832200361,
+  "archived": true,
+  "archivePath": "AudioArchive/138015836072461.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16df"
+  },
+  "emoteName": "Two",
+  "originalSoundId": 82380942934485,
+  "currentSoundId": 82380942934485,
+  "animationId": 78139080581827,
+  "archived": true,
+  "archivePath": "AudioArchive/82380942934485.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16e0"
+  },
+  "emoteName": "Wait!",
+  "originalSoundId": 109750259430235,
+  "currentSoundId": 109750259430235,
+  "animationId": 96042968637758,
+  "archived": true,
+  "archivePath": "AudioArchive/109750259430235.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16e1"
+  },
+  "emoteName": "What You Saying",
+  "originalSoundId": 132133018166541,
+  "currentSoundId": 132133018166541,
+  "animationId": 95619061224179,
+  "archived": true,
+  "archivePath": "AudioArchive/132133018166541.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a383d9d8373f40a8e7a16e2"
+  },
+  "emoteName": "Yuji Jumping Edit",
+  "originalSoundId": 110873588680259,
+  "currentSoundId": 110873588680259,
+  "animationId": 139982320267456,
+  "archived": true,
+  "archivePath": "AudioArchive/110873588680259.ogg",
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T19:38:04.761Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T19:45:54.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a386e0456d8bf88398746fb"
+  },
+  "emoteName": "test",
+  "originalSoundId": 135769736786021,
+  "currentSoundId": 135769736786021,
+  "animationId": 124978495732114,
+  "archived": false,
+  "archivePath": null,
+  "moderated": false,
+  "reuploadHistory": [],
+  "createdAt": {
+    "$date": "2026-06-21T23:04:36.822Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T23:04:36.822Z"
+  }
+}]
