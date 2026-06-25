@@ -1262,13 +1262,13 @@
   {
     "emoteName": "Testt123s",
     "originalSoundId": 130157669005527,
-    "currentSoundId": 130157669005527,
+    "currentSoundId": 95982870317493,
     "animationId": 124978495732114,
-    "archived": true,
-    "archivePath": "AudioArchive/130157669005527.ogg",
+    "archived": false,
+    "archivePath": null,
     "moderated": false,
     "reuploadHistory": [],
     "createdAt": "2026-06-25T18:50:26.038Z",
-    "updatedAt": "2026-06-25T18:50:26.351Z"
+    "updatedAt": "2026-06-25T18:53:12.383Z"
   }
 ]
