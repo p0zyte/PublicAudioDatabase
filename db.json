@@ -1333,14 +1333,14 @@
   {
     "emoteName": "Phibz Swing Dance",
     "originalSoundId": null,
-    "currentSoundId": null,
+    "currentSoundId": 126627091872106,
     "animationId": 80719343596968,
-    "archived": false,
-    "archivePath": null,
+    "archived": true,
+    "archivePath": "AudioArchive/126627091872106.ogg",
     "moderated": false,
     "reuploadHistory": [],
     "createdAt": "2026-07-03T02:13:34.223Z",
-    "updatedAt": "2026-07-03T02:13:34.223Z"
+    "updatedAt": "2026-07-03T02:24:16.740Z"
   },
   {
     "emoteName": "Soda Pop",
