@@ -1345,14 +1345,14 @@
   {
     "emoteName": "Soda Pop",
     "originalSoundId": 75095939150658,
-    "currentSoundId": 94555185963652,
+    "currentSoundId": 107863424252381,
     "animationId": 104070566857271,
-    "archived": true,
-    "archivePath": "AudioArchive/94555185963652.ogg",
+    "archived": false,
+    "archivePath": null,
     "moderated": false,
     "reuploadHistory": [],
     "createdAt": "2026-07-03T02:13:34.223Z",
-    "updatedAt": "2026-07-03T02:19:28.050Z"
+    "updatedAt": "2026-07-03T02:30:48.752Z"
   },
   {
     "emoteName": "Low Cortisol V2",
