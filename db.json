@@ -1284,8 +1284,8 @@
   },
   {
     "emoteName": "GGEZ",
-    "originalSoundId": null,
-    "currentSoundId": null,
+    "originalSoundId": 125579420223358,
+    "currentSoundId": 125579420223358,
     "animationId": 140122077553965,
     "archived": false,
     "archivePath": null,
