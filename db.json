@@ -1357,14 +1357,14 @@
   {
     "emoteName": "Low Cortisol V2",
     "originalSoundId": null,
-    "currentSoundId": null,
+    "currentSoundId": 86770149792287,
     "animationId": 119038940651618,
-    "archived": false,
-    "archivePath": null,
+    "archived": true,
+    "archivePath": "AudioArchive/86770149792287.ogg",
     "moderated": false,
     "reuploadHistory": [],
     "createdAt": "2026-07-03T02:13:34.223Z",
-    "updatedAt": "2026-07-03T02:13:34.223Z"
+    "updatedAt": "2026-07-03T02:24:56.758Z"
   },
   {
     "emoteName": "Heavy Love",
