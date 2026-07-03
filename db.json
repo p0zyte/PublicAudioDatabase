@@ -1297,14 +1297,14 @@
   {
     "emoteName": "Scuba",
     "originalSoundId": null,
-    "currentSoundId": null,
+    "currentSoundId": 90747492576069,
     "animationId": 83815331683162,
     "archived": false,
     "archivePath": null,
     "moderated": false,
     "reuploadHistory": [],
     "createdAt": "2026-07-03T02:13:34.223Z",
-    "updatedAt": "2026-07-03T02:37:07.232Z"
+    "updatedAt": "2026-07-03T02:55:12.464Z"
   },
   {
     "emoteName": "JUMP",
