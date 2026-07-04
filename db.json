@@ -751,7 +751,7 @@
     },
     "emoteName": "Headlock",
     "originalSoundId": 130543687927115,
-    "currentSoundId": 89920337827801,
+    "currentSoundId": 135895868114266,
     "animationId": 81423725542571,
     "archived": true,
     "archivePath": "AudioArchive/130543687927115.ogg",
@@ -1326,12 +1326,17 @@
         "from": 124524416350925,
         "to": 89920337827801,
         "at": "2026-07-04T17:53:33.143Z"
+      },
+      {
+        "from": 89920337827801,
+        "to": 135895868114266,
+        "at": "2026-07-04T18:03:46.754Z"
       }
     ],
     "createdAt": {
       "$date": "2026-06-21T19:38:04.761Z"
     },
-    "updatedAt": "2026-07-04T17:53:33.143Z"
+    "updatedAt": "2026-07-04T18:03:46.754Z"
   },
   {
     "_id": {
