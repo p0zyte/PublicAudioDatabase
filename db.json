@@ -1309,14 +1309,14 @@
   {
     "emoteName": "JUMP",
     "originalSoundId": null,
-    "currentSoundId": null,
+    "currentSoundId": 106395124704720,
     "animationId": 74373496604969,
     "archived": false,
     "archivePath": null,
     "moderated": false,
     "reuploadHistory": [],
     "createdAt": "2026-07-03T02:13:34.223Z",
-    "updatedAt": "2026-07-03T02:37:07.232Z"
+    "updatedAt": "2026-07-04T00:30:22.364Z"
   },
   {
     "emoteName": "Cold Like Minnesota",
