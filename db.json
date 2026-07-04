@@ -2052,13 +2052,13 @@
   {
     "emoteName": "Your Idol",
     "originalSoundId": null,
-    "currentSoundId": null,
+    "currentSoundId": 100534513631296,
     "animationId": 87925347491384,
-    "archived": false,
-    "archivePath": null,
+    "archived": true,
+    "archivePath": "AudioArchive/100534513631296.ogg",
     "moderated": false,
     "reuploadHistory": [],
     "createdAt": "2026-07-04T19:44:04.930Z",
-    "updatedAt": "2026-07-04T19:44:04.930Z"
+    "updatedAt": "2026-07-04T19:44:17.498Z"
   }
 ]
